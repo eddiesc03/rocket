@@ -1,0 +1,36 @@
+-0.9 1.8
+1.9  1.8 
+
+-1 1.8
+2  1.8
+2  2
+-1 2
+
+0 0.4 wall 1500
+1 0.4 wall 1500
+0.5 0 wall -3000
+0.5 1 wall -3000
+
+-0.5 -0.5 time
+-0.9 -0.9 fuel
+-0.5 0.5 repeller 400
+-0.5 1.5 fuel
+0.5 -0.5 fuel
+0.5 0.5 fuel
+0.5 1.5 fuel
+1.5 -0.5 time
+1.5 0.5 repeller 500
+1.9 0.5 fuel
+1.5 1.5 fuel
+
+-0.9 1.5 teleporter 0.5 1.7
+0.7 1.5 teleporter 0.7 -0.5
+0.3 -0.5 teleporter -0.3 0.7
+-0.7 0.3 teleporter -0.7 -0.3
+-0.7 -0.7 teleporter 1.5 0.7
+1.1 0.3 teleporter 1.9 -0.3
+1.1 -0.2 teleporter 0.2 0.2
+0.8 0.8 teleporter 1.1 1.2
+
+landscape
+text welcome to teleportation!

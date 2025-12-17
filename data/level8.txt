@@ -1,0 +1,22 @@
+.1  .9
+.9  .2
+
+ 0   0
+.7   0
+.7  .6
+.8  .6
+.9  .7
+.6  .7
+.6  .05
+.05 .05
+.05 .9
+.2  .9
+.2  .2
+.3  .2
+.3   1
+ 0   1
+
+ 0  -800 wind
+.8  .5 time
+
+text Beware of the rising winds! But do fly though the time to see what might be given...

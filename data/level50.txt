@@ -1,0 +1,39 @@
+-0.9 1.8
+1.9  1.19
+
+-1   1.8
+2    1.8
+2    2
+-1   2
+
+0.4  1.5  wall -2700
+0.5  1.8  black 600
+1.8  1.6  fuel
+0.6  1.2  wall -2700
+-0.8 1.3  fuel
+-0.8 0.3  wall 1000
+-0.8 -0.7 all
+
+1.9  -0.8 button 1.7 1.1 0.1 0.2
+0.5  -0.9 alien 0 2 20
+0.3  -0.9 alien 0 2 25
+1.86 -0.82 teleporter 1.4 0
+1.9  -0.5 teleporter 1.66 -0.82
+0     0   all
+
+1.5  -0.8 wall 200
+1.75 -0.6 wall -500
+1.8  -0.8 wall -110
+1.8  -0.9 blob 50 2
+1.7  -0.9 all
+
+-0.6 0.2  wall 900
+-0.4 0.5  repeller 300
+-0.7 0    time
+0.5  1.1  fuel
+0.7  1    wall -2600
+2    1.   repeller 100
+
+bullets 50
+200 100 wind
+landscape

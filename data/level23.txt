@@ -1,0 +1,15 @@
+0.5 0.8
+0.6  0.2
+
+0    0.8
+1    0.8
+1    1
+0    1
+
+0.1 0.1 fuel
+0.6 0.17 health
+0.5 0.5 blob 100
+
+0.3 0.5 chain blob 50 0.7 0.6 blob 200 100
+
+text These chains don't behave quite how you might expect them to.
